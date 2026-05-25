@@ -1,4 +1,4 @@
-# Real Data Description
+# Data Description
 
 This directory contains the real-world electrochemical ageing datasets used in the study.  
 The data cover two broad device families:
